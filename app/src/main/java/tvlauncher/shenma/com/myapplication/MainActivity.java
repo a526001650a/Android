@@ -31,7 +31,11 @@ public class MainActivity extends AppCompatActivity {
     private void develop(){
         
     }
-
+    
+    private void fixbug1(){
+        
+    }
+    
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
